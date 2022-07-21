@@ -1,2 +1,1 @@
-# .github
-Our World is Our Work
+# Our World is Our Work
